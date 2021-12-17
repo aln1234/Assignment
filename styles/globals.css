@@ -8,5 +8,5 @@
 
 @font-face {
     font-family: 'Steelflight';
-    src: local('Steelflight'), url(../fonts/Steelflight.ttf) ;
+    src: local('Steelflight'), url("../fonts/Steelflight.ttf") ;
   };
