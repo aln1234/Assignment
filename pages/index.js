@@ -13,10 +13,11 @@ export default function Home() {
         <title>Demo App</title>
         <link rel="icon" href="/favicon.ico" />
         <link
-            rel="preload"
+            as="style"
+            rel="stylesheet preload prefetch" 
             href="../fonts/Steelflight.ttf"
             as="font"
-            crossOrigin=""
+            crossOrigin="anonymous"
           />
       </Head>
 
